@@ -20,27 +20,27 @@ Senior Software Engineer with seven years of experience and successful in comple
 </colgroup>
 <tbody>
 <tr>
-  <td>Backend</td>
+  <td markdown="span">**Backend**</td>
   <td>Java, Spring Boot, Maven, REST, SOAP, C#, WPF</td>
 </tr>
 <tr>
-  <td>Frontend</td>
+  <td markdown="span">**Frontend**</td>
   <td>HTML5, CSS3, JavaScript, jQuery, Angular JS</td>
 </tr>
 <tr>
-  <td>Database</td>
+  <td markdown="span">**Database**</td>
   <td>SQL Server, DB2, Azure Cosmos DB, MySQL</td>
 </tr>
 <tr>
-  <td>Methodology</td>
+  <td markdown="span">**Methodology**</td>
   <td>Agile, Waterfall</td>
 </tr>
 <tr>
-  <td>Cloud</td>
+  <td markdown="span">**Cloud**</td>
   <td>Azure – DevOps, API Management,Pipelines, Function apps, Key Vault</td>
 </tr>
 <tr>
-  <td>Others</td>
+  <td markdown="span">**Others**</td>
   <td>GIT, SVN, IntelliJ, Eclipse, Visual Studio Code, Apache Tomcat server, Kubernetes, Docker</td>
 </tr>
 </tbody>
