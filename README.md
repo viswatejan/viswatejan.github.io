@@ -13,14 +13,38 @@ Senior Software Engineer with seven years of experience and successful in comple
 * Code Reviews
 
 ## TECHNOLOGY SUMMARY
-|         |          |
-|---------|----------|
-| Backend | Java, Spring Boot, Maven, REST, SOAP, C#, WPF |
-| Frontend | HTML5, CSS3, JavaScript, jQuery, Angular JS |
-| Database | SQL Server, DB2, Azure Cosmos DB, MySQL |
-| Methodology | Agile, Waterfall |
-| Cloud | Azure – DevOps, API Management,Pipelines, Function apps, Key Vault |
-| Others |GIT, SVN, IntelliJ, Eclipse, Visual Studio Code, Apache Tomcat server, Kubernetes, Docker |
+<table>
+<colgroup>
+  <col width="30%" />
+  <col width="70%" />
+</colgroup>
+<tbody>
+<tr>
+  <td>Backend</td>
+  <td>Java, Spring Boot, Maven, REST, SOAP, C#, WPF</td>
+</tr>
+<tr>
+  <td>Frontend</td>
+  <td>HTML5, CSS3, JavaScript, jQuery, Angular JS</td>
+</tr>
+<tr>
+  <td>Database</td>
+  <td>SQL Server, DB2, Azure Cosmos DB, MySQL</td>
+</tr>
+<tr>
+  <td>Methodology</td>
+  <td>Agile, Waterfall</td>
+</tr>
+<tr>
+  <td>Cloud</td>
+  <td>Azure – DevOps, API Management,Pipelines, Function apps, Key Vault</td>
+</tr>
+<tr>
+  <td>Others</td>
+  <td>GIT, SVN, IntelliJ, Eclipse, Visual Studio Code, Apache Tomcat server, Kubernetes, Docker</td>
+</tr>
+</tbody>
+</table>
 
 ## WORK HISTORY
 ### J.B. Hunt Transport Inc – `Senior Software Engineer` – `Lowell, AR` – `06/2019 – Current`
@@ -64,7 +88,7 @@ As part of Retail Innovation Labs, designed and developed innovative solutions a
 Microsoft - Programming in HTML5 with JavaScript and CSS3
 
 ## EDUCATION
-SASTRA University | Tamil Nadu | 2012
+SASTRA University – `Tamil Nadu, India` – `2012`
 * Bachelor of Technology in Electronics & Communication Engineering
 * 9.11 GPA
 * Dean’s Lister
