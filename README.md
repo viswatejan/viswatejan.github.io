@@ -58,7 +58,7 @@ Senior Software Engineer with seven years of experience and successful in comple
 * Developed and exposed multi-tenant B2B APIs through Azure API Management (APIM) solution. Also delegated the APIM Developer Portal authentication to CAS.
 * Developed Spring based OAuth2 Authorization Server with authentication delegated to CAS to provide backward compatibility. Also developed administration portal for registering OAuth2 clients.
 * Improved the resiliency of in-house and legacy authorization service (Role Based Access Control) by deploying to Kubernetes with auto-scaling and failover to cloud hosted read-only database which is configured to sync data with on-premise primary database using IBM Infosphere Data Replication.
-* Developed a white label solution to onboard the users of our customers with account registration, email verification and password reset functionality. Also developed a listener to evaluate the authorization based on the attributes (Attribute Based Access Control).
+* Developed a white label solution to onboard the end-users of our customers with account registration, email verification and password reset functionality. Also developed a listener to evaluate the authorization based on the attributes (Attribute Based Access Control).
 * Developed several auto-configure spring boot libraries on top of Spring Security to configure SSO for web applications and Authentication and Authorization for web services.
 
 ### Tata Consultancy Services Ltd. – `IT Analyst` – `Walmart` – `Bentonville, AR` – `07/2015 – 03/2017`
