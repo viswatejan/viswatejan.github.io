@@ -71,7 +71,7 @@ Lead developer in developing an in-house application for pricing the items in th
 * Regarded as a key and go-to developer in the project for analyzing and troubleshooting critical issues.
 
 ### Tata Consultancy Services Ltd. – `Systems Engineer` – `Staples` – `Chennai, India` – `01/2015 – 06/2015`
-Worked on Landing Pages enhancements of Staples e-commerce site (www.staples.com & www.staples.ca). Landing Pages include home, product description, daily deals, back to school, my profile, shopping cart pages etc. Also worked on developing product and category details APIs to consume in Staples m-commerce and mobile applications.
+Worked on the enhancements of the Landing Pages on the Staples e-commerce site (www.staples.com & www.staples.ca). Landing Pages comprises of home, product description, daily deals, back to school, profile, shopping cart pages etc. Also worked on developing product and category details APIs which are consumed by the Staples m-commerce and mobile applications.
 
 *Achievement Highlights:*
 * Proven good analytical abilities in troubleshooting and analyzing the impact of the new features.
