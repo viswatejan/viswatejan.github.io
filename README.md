@@ -21,11 +21,11 @@ Senior Software Engineer with seven years of experience and successful in comple
 <tbody>
 <tr>
   <td markdown="span">**Backend**</td>
-  <td>Java, Spring Boot, Maven, REST, SOAP, C#, WPF</td>
+  <td>Java, Spring Boot, Spring Security, Spring Web MVC, Maven, REST, SOAP, C#, WPF</td>
 </tr>
 <tr>
   <td markdown="span">**Frontend**</td>
-  <td>HTML5, CSS3, JavaScript, jQuery, Angular JS</td>
+  <td>HTML5, CSS3, JavaScript, jQuery, Angular JS, Webpack, Grunt</td>
 </tr>
 <tr>
   <td markdown="span">**Database**</td>
@@ -65,7 +65,7 @@ Senior Software Engineer with seven years of experience and successful in comple
 Lead developer in developing an in-house application for pricing the items in the brick and mortar stores of Walmart.
 
 *Achievement Highlights:*
-* Designed and developed from the initial application framework and configured grunt based builds taks.
+* Designed and developed the application from the scratch  with AngularJS and configured grunt based builds taks.
 * Developed a custom ng-repeat angular module to improve the performance of the data binding with large dataset.
 * Improved pricing domain knowledge by direct co-ordination with Business, Clients and Technical Architects in requirement analysis and design.
 * Regarded as a key and go-to developer in the project for analyzing and troubleshooting critical issues.
