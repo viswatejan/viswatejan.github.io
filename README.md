@@ -63,6 +63,7 @@ Senior Software Engineer with seven years of experience and successful in comple
 
 ### Tata Consultancy Services Ltd. – `IT Analyst` – `Walmart` – `Bentonville, AR` – `07/2015 – 03/2017`
 Lead developer in developing an in-house application for pricing the items in the brick and mortar stores of Walmart.
+
 *Achievement Highlights:*
 * Designed and developed the initial framework.
 * Developed a custom ng-repeat angular module to manage data binding with large dataset.
@@ -71,6 +72,7 @@ Lead developer in developing an in-house application for pricing the items in th
 
 ### Tata Consultancy Services Ltd. – `Systems Engineer` – `Staples` – `Chennai, India` – `01/2015 – 06/2015`
 Worked on Landing Pages enhancements of Staples e-commerce site (www.staples.com & www.staples.ca). Landing Pages include home, product description, daily deals, back to school, my profile, shopping cart pages etc. Also worked on developing product and category details APIs to consume in Staples m-commerce and mobile applications.
+
 *Achievement Highlights:*
 * Proven good analytical abilities in troubleshooting and analyzing the impact of the new features.
 * Delivered defect free functionalities and documentation with fast turnaround time.
@@ -78,6 +80,7 @@ Worked on Landing Pages enhancements of Staples e-commerce site (www.staples.com
 
 ### Tata Consultancy Services Ltd. – `Systems Engineer` – `Chennai, India` – `07/2012 – 12/2014`
 As part of Retail Innovation Labs, designed and developed innovative solutions and proof of concepts for lot of Retail problems and demonstrated to various retailers. Worked on variety of trending technologies (Virtual Reality, Microsoft Kinect, Internet of Things, Android application development, Face Recognition and Gamification concepts) and special hardware (Oculus Rift VR headset, Microsoft Kinect for Windows, Arduino YUN and Arduino UNO). 
+
 *Achievement Highlights:*
 * Designed an algorithm for measuring the apparel fit in less than 3 seconds where the customer should stand before Kinect in two simple postures – filed a patent with the title Method and System for Virtual Fitting of User Apparels.
 * Presented Retail solutions during the Retail Summit, 2014 In TCS Japan.  
