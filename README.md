@@ -82,8 +82,8 @@ Worked on the enhancements of the Landing Pages on the Staples e-commerce site (
 As part of Retail Innovation Labs, designed and developed innovative solutions and proof of concepts for lot of Retail problems and demonstrated to various retailers. Worked on variety of trending technologies (Virtual Reality, Microsoft Kinect, Internet of Things, Android application development, Face Recognition and Gamification concepts) and special hardware (Oculus Rift VR headset, Microsoft Kinect for Windows, Arduino YUN and Arduino UNO). 
 
 *Achievement Highlights:*
-* Designed an algorithm for measuring the apparel fit in less than 3 seconds where the customer should stand before Kinect in two simple postures – filed a patent with the title Method and System for Virtual Fitting of User Apparels.
-* Presented Retail solutions during the Retail Summit, 2014 In TCS Japan.  
+* Designed an algorithm for measuring the apparel fit in less than 3 seconds where the customer should stand before Kinect in two simple postures. Also filed a patent with the title Method and System for Virtual Fitting of User Apparels.
+* Presented the Retail solutions during the Retail Summit 2014 in TCS Japan.
 * Adapted to advancements in technologies and developed solutions with quick turnaround time.
 * Developed Temperature and Carbon dioxide sensor IoT modules with Arduino YUN microcontroller which communicates over UDP protocol.
 
