@@ -65,8 +65,8 @@ Senior Software Engineer with seven years of experience and successful in comple
 Lead developer in developing an in-house application for pricing the items in the brick and mortar stores of Walmart.
 
 *Achievement Highlights:*
-* Designed and developed the initial framework.
-* Developed a custom ng-repeat angular module to manage data binding with large dataset.
+* Designed and developed from the initial application framework and configured grunt based builds taks.
+* Developed a custom ng-repeat angular module to improve the performance of the data binding with large dataset.
 * Improved pricing domain knowledge by direct co-ordination with Business, Clients and Technical Architects in requirement analysis and design.
 * Regarded as a key and go-to developer in the project for analyzing and troubleshooting critical issues.
 
