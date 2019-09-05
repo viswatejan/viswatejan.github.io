@@ -15,8 +15,8 @@ Senior Software Engineer with seven years of experience and successful in comple
 ## TECHNOLOGY SUMMARY
 <table>
 <colgroup>
-  <col width="30%" />
-  <col width="70%" />
+  <col width="28%" />
+  <col width="68%" />
 </colgroup>
 <tbody>
 <tr>
@@ -37,7 +37,7 @@ Senior Software Engineer with seven years of experience and successful in comple
 </tr>
 <tr>
   <td markdown="span">**Cloud**</td>
-  <td>Azure – DevOps, API Management,Pipelines, Function apps, Key Vault</td>
+  <td>Azure – DevOps, API Management, Pipelines, Function apps, Key Vault</td>
 </tr>
 <tr>
   <td markdown="span">**Others**</td>
