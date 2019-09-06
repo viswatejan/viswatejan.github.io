@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Resume
 
 ## PROFESSIONAL SUMMARY
