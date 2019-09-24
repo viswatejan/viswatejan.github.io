@@ -4,15 +4,20 @@
 Senior Software Engineer with seven years of experience and successful in completing simultaneous projects. Decisive leader and dependable team builder with results-focused and driven approach.
 
 ## SKILLS
-* Software Design & Development
-* Analytical Thinking
-* Troubleshooting
-* Problem Solving
-* Continuous learning
-* Mentoring & Training
-* Code Reviews
+<ul style="float: left;">
+  <li>Software Design &amp; Development</li>
+  <li>Analytical Thinking</li>
+  <li>Troubleshooting</li>
+  <li>Unit &amp; Integration Testing</li>
+</ul>
+<ul style="position: absolute;left: 50%;">
+  <li>Problem Solving &amp; Logical Thinking</li>
+  <li>Continuous Learning</li>
+  <li>Mentoring &amp; Training</li>
+  <li>Code Reviews</li>
+</ul>
 
-## TECHNOLOGY SUMMARY
+<h2 id="technology-summary" style="clear: both;">TECHNOLOGY SUMMARY</h2>
 <table>
 <colgroup>
   <col width="28%" />
