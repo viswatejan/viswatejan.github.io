@@ -11,7 +11,7 @@ Senior Software Engineer with seven years of experience and successful in comple
   <li>Unit &amp; Integration Testing</li>
 </ul>
 <ul class="list-right">
-  <li>Problem Solving &amp; Logical Thinking</li>
+  <li>Problem Solving</li>
   <li>Continuous Learning</li>
   <li>Mentoring &amp; Training</li>
   <li>Code Reviews</li>
