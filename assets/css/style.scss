@@ -8,13 +8,22 @@
         margin-bottom: 0;   
     }
 
-    @include media(medium,  large) {
+    @include medium{
+        float: left;
+    }
+
+    @include large{
         float: left;
     }
 }
 
 .list-right {
-    @include media(medium, large) {
+    @include medium{
+        position: absolute;
+        left: 50%;
+    }
+
+    @include large {
         position: absolute;
         left: 50%;
     }
