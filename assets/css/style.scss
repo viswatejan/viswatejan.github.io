@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.list-left {
+    @include small {
+        margin-bottom: 0;   
+    }
+
+    @include medium {
+        float: left;
+    }
+}
+
+.list-right {
+    @include medium {
+        position: absolute;
+        left: 50%;
+    }
+}
