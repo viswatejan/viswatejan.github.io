@@ -46,7 +46,7 @@ Senior Software Engineer with seven years of experience and successful in comple
 </tr>
 <tr>
   <td markdown="span">**Others**</td>
-  <td>GIT, SVN, IntelliJ, Eclipse, Visual Studio Code, Apache Tomcat server, Kubernetes, Docker</td>
+  <td>GIT, SVN, IntelliJ, Eclipse, Visual Studio Code, Apache Tomcat server, Docker, Kubernetes, Red Hat SSO (Keycloak)</td>
 </tr>
 </tbody>
 </table>
@@ -70,7 +70,7 @@ Senior Software Engineer with seven years of experience and successful in comple
 Lead developer in developing an in-house application for pricing the items in the brick and mortar stores of Walmart.
 
 *Achievement Highlights:*
-* Designed and developed the application from the scratch  with AngularJS and configured grunt based builds taks.
+* Designed and developed the application from the scratch  with AngularJS and configured grunt based builds tasks.
 * Developed a custom ng-repeat angular module to improve the performance of the data binding with large dataset.
 * Improved pricing domain knowledge by direct co-ordination with Business, Clients and Technical Architects in requirement analysis and design.
 * Regarded as a key and go-to developer in the project for analyzing and troubleshooting critical issues.
@@ -87,7 +87,7 @@ Worked on the enhancements of the Landing Pages on the Staples e-commerce site (
 As part of Retail Innovation Labs, designed and developed innovative solutions and proof of concepts for lot of Retail problems and demonstrated to various retailers. Worked on variety of trending technologies (Virtual Reality, Microsoft Kinect, Internet of Things, Android application development, Face Recognition and Gamification concepts) and special hardware (Oculus Rift VR headset, Microsoft Kinect for Windows, Arduino YUN and Arduino UNO). 
 
 *Achievement Highlights:*
-* Designed an algorithm for measuring the apparel fit in less than 3 seconds where the customer should stand before Kinect in two simple postures. Also filed a patent with the title Method and System for Virtual Fitting of User Apparels.
+* Designed an algorithm for measuring the apparel fit in less than 3 seconds where the customer should stand before Kinect in two simple postures. Also filed a patent with the title – Method and System for Virtual Fitting of User Apparels.
 * Presented the Retail solutions during the Retail Summit 2014 in TCS Japan.
 * Adapted to advancements in technologies and developed solutions with quick turnaround time.
 * Developed Temperature and Carbon dioxide sensor IoT modules with Arduino YUN microcontroller which communicates over UDP protocol.
