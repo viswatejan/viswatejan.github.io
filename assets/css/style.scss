@@ -20,11 +20,11 @@
 .list-right {
     @include medium{
         position: absolute;
-        left: 50%;
+        left: 55%;
     }
 
     @include large {
         position: absolute;
-        left: 50%;
+        left: 55%;
     }
 }
