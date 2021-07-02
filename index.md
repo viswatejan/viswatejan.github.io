@@ -108,3 +108,6 @@ SASTRA University – `Tamil Nadu, India` – `2012`
 * 9.11 GPA
 * Dean’s Lister
 * Recipient of University and Central Government Scholarship
+
+## CONTACT
+🔗 [LinkedIn](https://www.linkedin.com/in/viswatejan)
