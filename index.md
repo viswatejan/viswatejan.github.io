@@ -1,7 +1,7 @@
 # Resume
 
 ## PROFESSIONAL SUMMARY
-9 years of successful experience in designing and developing projects that are scalable and fault tolerant. Result oriented with no compromise on the quality. Willingness to learn new skills and try to be up to date with the latest technologies that bring value to the work. Contributed to various open-source projects in GitHub.
+9 years of successful experience in designing and developing software that is scalable and fault tolerant. Result oriented with no compromise on the quality. Willingness to learn new skills and try to be up to date with the latest technologies that bring value to the work. Contributed to various open-source projects in GitHub.
 
 ## SKILLS
 <ul class="list-left">
