@@ -1,4 +1,3 @@
-[LinkedIn](https://linkedin.viswa.dev)
 # Resume
 
 ## SKILLS
