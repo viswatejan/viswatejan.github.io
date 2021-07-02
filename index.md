@@ -1,19 +1,20 @@
 # Resume
 
 ## PROFESSIONAL SUMMARY
-Senior Software Engineer with seven years of experience and successful in completing simultaneous projects. Decisive leader and dependable team builder with results-focused and driven approach.
+9 years of successful experience in designing and developing projects that are scalable and fault tolerant. Result oriented with no compromise on the quality. Willingness to learn new skills and try to be up to date with the latest technologies that bring value to the work. Contributed to various open-source projects in GitHub.
 
 ## SKILLS
 <ul class="list-left">
   <li>Software Design &amp; Development</li>
   <li>Analytical Thinking</li>
   <li>Troubleshooting</li>
+  <li>Problem Solving</li>
   <li>Unit &amp; Integration Testing</li>
 </ul>
 <ul class="list-right">
-  <li>Problem Solving</li>
   <li>Continuous Learning</li>
   <li>Mentoring &amp; Training</li>
+  <li>Pair Programming</li>
   <li>Code Reviews</li>
 </ul>
 
@@ -26,48 +27,53 @@ Senior Software Engineer with seven years of experience and successful in comple
 <tbody>
 <tr>
   <td markdown="span">**Backend**</td>
-  <td>Java, Spring Boot, Spring Security, Spring Web MVC, Maven, REST, SOAP, C#, WPF</td>
+  <td>Java, Spring Boot, Spring Security, Spring Web MVC, Spring Data, Quarkus, JPA, Hibernate, JUnit, Mockito, Maven, REST, SOAP</td>
 </tr>
 <tr>
   <td markdown="span">**Frontend**</td>
   <td>HTML5, CSS3, JavaScript, jQuery, Angular JS, Webpack, Grunt</td>
 </tr>
 <tr>
-  <td markdown="span">**Database**</td>
-  <td>SQL Server, DB2, Azure Cosmos DB, MySQL</td>
+  <td markdown="span">**Data**</td>
+  <td>SQL Server, DB2, Azure Cosmos DB MySQL, Redis, Azure Event Hub</td>
+</tr>
+<tr>
+  <td markdown="span">**Cloud**</td>
+  <td>Azure (DevOps, API Management, Pipelines, Function apps, Key Vault, Kubernetes) and Google (Kubernetes Engine)</td>
+</tr>
+<tr>
+  <td markdown="span">**Tools & Products**</td>
+  <td>GIT, SVN, IntelliJ, Visual Studio Code, Eclipse, Apache Tomcat server, Docker, Kubernetes, Dynatrace, Red Hat SSO (Keycloak)</td>
 </tr>
 <tr>
   <td markdown="span">**Methodology**</td>
   <td>Agile, Waterfall</td>
 </tr>
-<tr>
-  <td markdown="span">**Cloud**</td>
-  <td>Azure – DevOps, API Management, Pipelines, Function apps, Key Vault</td>
-</tr>
-<tr>
-  <td markdown="span">**Others**</td>
-  <td>GIT, SVN, IntelliJ, Eclipse, Visual Studio Code, Apache Tomcat server, Docker, Kubernetes, Red Hat SSO (Keycloak)</td>
-</tr>
 </tbody>
 </table>
 
 ## WORK HISTORY
-### J.B. Hunt Transport Inc – `Senior Software Engineer` – `Lowell, AR` – `06/2019 – Current`
-* Assisted and mentored the team as a Team Lead in a crucial change to move away from legacy solution towards the cutting-edge industry standards to secure the apps and services.
-* Reviewed and analyzed our requirements with various Security providers like Okta, Azure AD, Keycloak, etc. and opted for commercial version of Keycloak (Red Hat SSO) with Red Hat support.
-* Customized Red Hat SSO login themes and implemented various SPIs to customize the authentication flows. Also developed Azure based build and release pipelines.
-* Replaced legacy SSO solution for Shipper and Carrier applications with Red Hat SSO.
+### J.B. Hunt Transport Inc – `Expert Software Engineer` – `Lowell, AR, USA` – `02/2021 – Present`
+* Lead and mentored three development teams technically.
+* Used Domain Driven Design principles and developed a CQRS architecture for scalable and highly available multi-tenant access management system to implement fine-grained access control to the resources in the web applications and services.
+* Implemented Hibernate Envers based auditing for the security auditing and reporting.
 
-### J.B. Hunt Transport Inc – `Software Engineer` – `Lowell, AR` – `03/2017 – 06/2019`
-* Upgraded CAS (Central Authentication Server), a legacy Single Sign On (SSO) solution for all the apps in the company.
+### J.B. Hunt Transport Inc – `Senior Software Engineer` – `Lowell, AR, USA` – `06/2019 – 01/2021`
+* Assisted and mentored the team as a Team Lead. • Go to person for all the application security related questions, issues and troubleshooting for the entire company.
+* Reviewed and analyzed our access requirements with various IAM providers like Okta, Azure AD, Keycloak, etc. and opted for commercial version of Keycloak (Red Hat SSO) with Red Hat support.
+* Customized Red Hat SSO login themes and implemented various SPIs to customize the authentication flows. Also developed Azure DevOps based CICD pipelines. 
+* Migrated the SSO for B2B apps (Shipper360 and Carrier360) with Red Hat SSO.
+
+### J.B. Hunt Transport Inc – `Software Engineer` – `Lowell, AR, USA` – `03/2017 – 06/2019`
+* Upgraded CAS (Central Authentication Server), a legacy Single Sign On (SSO) provider used by all the apps in the company.
+* Developed Spring based OAuth2 Authorization Server with authentication delegated to CAS to provide backward compatibility for all the apps. Also developed administration portal for registering OAuth2 clients.
 * Developed and exposed multi-tenant B2B APIs through Azure API Management (APIM) solution. Also delegated the APIM Developer Portal authentication to CAS.
-* Developed Spring based OAuth2 Authorization Server with authentication delegated to CAS to provide backward compatibility. Also developed administration portal for registering OAuth2 clients.
-* Improved the resiliency of in-house and legacy authorization service (Role Based Access Control) by deploying to Kubernetes with auto-scaling and failover to cloud hosted read-only database which is configured to sync data with on-premise primary database using IBM Infosphere Data Replication.
-* Developed a white label solution to onboard the end-users of our customers with account registration, email verification and password reset functionality. Also developed a listener to evaluate the authorization based on the attributes (Attribute Based Access Control).
+* Improved the resiliency of in-house and legacy authorization service (Role Based Access Control) by deploying to Kubernetes with auto-scaling and failover to cloud hosted read-only database which is configured to sync data with on-premises primary database using IBM Infosphere Data Replication.
+* Developed a white label solution to onboard the users of our customers with account registration, email verification and password reset functionality. Also developed a listener to evaluate the authorization based on the attributes (Attribute Based Access Control).
 * Developed several auto-configure spring boot libraries on top of Spring Security to configure SSO for web applications and Authentication and Authorization for web services.
 
-### Tata Consultancy Services Ltd. – `IT Analyst` – `Walmart` – `Bentonville, AR` – `07/2015 – 03/2017`
-Lead developer in developing an in-house application for pricing the items in the brick and mortar stores of Walmart.
+### Tata Consultancy Services Ltd. – `IT Analyst` – `Walmart` – `Bentonville, AR, USA` – `07/2015 – 03/2017`
+Lead UI developer in developing an in-house application for pricing the items in the Walmart stores.
 
 *Achievement Highlights:*
 * Designed and developed the application from the scratch  with AngularJS and configured grunt based builds tasks.
