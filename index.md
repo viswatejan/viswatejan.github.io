@@ -96,8 +96,8 @@ As part of Retail Innovation Labs, designed and developed innovative solutions a
 * Developed Temperature and Carbon dioxide sensor IoT modules with Arduino YUN microcontroller which communicates over UDP protocol.
 
 ## OPEN-SOURCE CONTRIBUTIONS
-* 🔗 [Keycloak](https://github.com/keycloak/keycloak)
-*	🔗 [CAS](https://github.com/apereo/cas)
+🔗 [Keycloak](https://github.com/keycloak/keycloak) <br />
+🔗 [CAS](https://github.com/apereo/cas)
 
 ## CERTIFICATIONS
 Microsoft - Programming in HTML5 with JavaScript and CSS3
