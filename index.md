@@ -97,7 +97,7 @@ As part of Retail Innovation Labs, designed and developed innovative solutions a
 
 ## OPEN-SOURCE CONTRIBUTIONS
 * 🔗 [Keycloak](https://github.com/keycloak/keycloak)
-•	🔗 [CAS](https://github.com/apereo/cas)
+*	🔗 [CAS](https://github.com/apereo/cas)
 
 ## CERTIFICATIONS
 Microsoft - Programming in HTML5 with JavaScript and CSS3
