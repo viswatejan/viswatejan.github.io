@@ -40,7 +40,7 @@
 </tr>
 <tr>
   <td markdown="span">**Tools & Products**</td>
-  <td>GIT, SVN, IntelliJ, Visual Studio Code, Eclipse, Apache Tomcat server, Docker, Kubernetes, Dynatrace, Red Hat SSO (Keycloak)</td>
+  <td>GIT, SVN, IntelliJ, Visual Studio Code, Eclipse, Apache Tomcat server, Docker, Kubernetes, Helm, Skaffold, Dynatrace, Red Hat SSO (Keycloak)</td>
 </tr>
 <tr>
   <td markdown="span">**Methodology**</td>
