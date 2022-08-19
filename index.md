@@ -51,14 +51,13 @@
 </table>
 
 ## WORK HISTORY
-### J.B. Hunt Transport Inc 
-<p class="right"><code>Expert Software Engineer</code> – <code>Lowell, AR, USA</code> – <code>02/2021 – Present</code><p>
+### J.B. Hunt Transport Inc – `Expert Software Engineer` – `Lowell, AR, USA` – `02/2021 – Present`
 * Lead and technically mentored three development teams.
 * Used Domain Driven Design principles to design and develop a CQRS architecture for a scalable and highly available multi-tenant access management system called Security360 that implements fine-grained access control (Role & Attribute Based Access Control) to secure the resources in the web apps and services.
 * Implemented rich auditing and reporting capabilities for Security360 using Hibernate Envers.
 * Developed Spring Boot auto-configure and Quakrus extension libraries to easily secure web apps and web services with Security360.
 
-<p class="right"><code>Senior Software Engineer</code> – <code>Lowell, AR, USA</code> – <code>06/2019 – 01/2021</code></p>
+### J.B. Hunt Transport Inc – `Senior Software Engineer` – `Lowell, AR, USA` – `06/2019 – 01/2021`
 * Assisted and mentored the team as a Team Lead.
 * Go to person for all the questions and troubleshooting the issues related to application security in the entire company.
 * Reviewed and analyzed our access requirements with various IAM providers like Okta, Azure AD, Keycloak, etc., and opted for the commercial version of Keycloak (RedHat SSO) with paid support from Red Hat support.
@@ -66,7 +65,7 @@
 * Also developed CICD pipelines using Azure DevOps to deploy these customizations to the RedHat SSO server.
 * Migrated the SSO for Shipper360 and Carrier360 from CAS to RedHat SSO.
 
-<p class="right"><code>Software Engineer</code> – <code>Lowell, AR, USA</code> – <code>03/2017 – 06/2019</code></p>
+### J.B. Hunt Transport Inc – `Software Engineer` – `Lowell, AR, USA` – `03/2017 – 06/2019`
 * Upgraded CAS (Central Authentication Server), a legacy Single Sign On (SSO) provider used by all the apps in the company.
 * Developed OAuth2 Authorization Server using Spring OAuth2 provider with authentication delegated to CAS to provide backward compatibility for all the web apps. Also developed an administration portal for registering OAuth2 clients.
 * Developed and exposed multi-tenant B2B APIs through Azure API Management (APIM) solution. Also delegated the APIM Developer Portal authentication to CAS.
@@ -74,8 +73,7 @@
 * Developed a white label solution to onboard the end users of our customers with account registration, email verification, and password reset functionality. Also developed a listener to precompute the authorization based on the attributes of users and the resources.
 * Developed several Spring Boot auto-configure libraries on top of Spring Security to configure SSO for web applications and Authentication and Authorization for web services.
 
-### Tata Consultancy Services Ltd. 
-<p class="right"><code>IT Analyst</code> – <code>Walmart</code> – <code>Bentonville, AR, USA</code> – <code>07/2015 – 03/2017</code></p>
+### Tata Consultancy Services Ltd. – `IT Analyst` – `Walmart` – `Bentonville, AR, USA` – `07/2015 – 03/2017`
 Lead UI developer in developing an in-house application for pricing the items in the Walmart stores.
 
 *Achievement Highlights:*
@@ -84,7 +82,7 @@ Lead UI developer in developing an in-house application for pricing the items in
 * Improved pricing domain knowledge by direct coordination with Business, Clients, and Technical Architects in requirement analysis and design.
 * Regarded as a key and go-to developer in the project for analyzing and troubleshooting critical issues.
 
-<p class="right"><code>Systems Engineer</code> – <code>Staples</code> – <code>Chennai, India</code> – <code>01/2015 – 06/2015</code></p>
+### Tata Consultancy Services Ltd. – `Systems Engineer` – `Staples` – `Chennai, India` – `01/2015 – 06/2015`
 Worked on the enhancements of the Landing Page on the Staples e-commerce site (www.staples.com & www.staples.ca). Landing Page comprises home, product description, daily deals, back to school, profile, shopping cart pages, etc. Also worked on developing product and category details APIs which are consumed by the Staples m-commerce and mobile applications.
 
 *Achievement Highlights:*
@@ -92,7 +90,7 @@ Worked on the enhancements of the Landing Page on the Staples e-commerce site (w
 * Delivered defect-free functionalities and documentation with a fast turnaround time.
 * Attained early promotion to IT Analyst by delivering consistently high performance.
 
-<p class="right"><code>Systems Engineer</code> – <code>Chennai, India</code> – <code>07/2012 – 12/2014</code></p>
+### Tata Consultancy Services Ltd. – `Systems Engineer` – `Chennai, India` – `07/2012 – 12/2014`
 As part of Retail Innovation Labs, designed and developed innovative solutions and proof of concepts for a lot of Retail problems and demonstrated them to various retailers. Worked on a variety of trending technologies (Virtual Reality, Microsoft Kinect, Internet of Things, Android application development, Face Recognition, etc.) and special hardware (Oculus Rift VR headset, Microsoft Kinect for Windows, Arduino YUN, and Arduino UNO) to develop innovative solutions to Retail problems.
 
 *Achievement Highlights:*
