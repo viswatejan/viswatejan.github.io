@@ -13,6 +13,7 @@
   <li>Mentoring &amp; Training</li>
   <li>Pair Programming</li>
   <li>Code Reviews</li>
+  <li>Smoke &amp; Load Testing</li>
 </ul>
 
 <h2 id="technology-summary" style="clear: both;">TECHNOLOGY SUMMARY</h2>
