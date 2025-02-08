@@ -2,10 +2,10 @@
 title: Viswa Teja Nariboina
 ---
 ## PROFESSIONAL SUMMARY
-**Experienced Software Engineer:** 13 years of success in designing and developing scalable, fault-tolerant software solutions.
-**Quality-Focused:** Result-oriented with a strong commitment to delivering high-quality work.
-**Continuous Learner:** Eager to learn new skills and stay updated with the latest technologies to enhance work quality.
-**Open Source Contributor:** Actively contributed to various open-source projects on GitHub.
+**Experienced Software Engineer:** 13 years of success in designing and developing scalable, fault-tolerant software solutions. <br/>
+**Quality-Focused:** Result-oriented with a strong commitment to delivering high-quality work. <br/>
+**Continuous Learner:** Eager to learn new skills and stay updated with the latest technologies to enhance work quality. <br/>
+**Open Source Contributor:** Actively contributed to various open-source projects on GitHub. 
 
 ## SKILLS
 <ul class="list-left">
