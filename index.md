@@ -119,13 +119,7 @@ title: Viswa Teja Nariboina
 * **Architectural Design:** Applied Domain Driven Design principles to architect and develop a CQRS-based, scalable, and highly available multi-tenant access management system, Security360. Implemented fine-grained access control (Role & Attribute Based Access Control) to secure web applications and services.
 * **Product Development:** Designed and developed multiple web services, cron jobs, and event/stream processing applications integral to Security360.
 * **Performance Optimization:** Converted the authorization service to a native application using GraalVM, reducing startup time from 8 seconds to under 500 milliseconds, significantly enhancing scalability and memory efficiency.
-* **Agentic AI**: Developed an MCP server that enhances GitHub Copilot
-with custom tools and resources, enabling teams to seamlessly
-integrate their Java applications with Security360. Contributed to
-reference implementations using Google ADK and applied industry best
-practices to strengthen the security posture of MCP servers. Designed
-a scalable architecture capable of interacting with third‑party agents
-and MCP servers secured by a variety of identity providers.
+* **Agentic AI**: Developed an MCP server that enhances GitHub Copilot with custom tools and resources, enabling teams to seamlessly integrate their Java applications with Security360. Contributed to reference implementations using Google ADK. Applied industry best practices to strengthen the security posture of MCP servers. Designed a scalable architecture capable of interacting with third‑party agents and MCP servers secured by a variety of identity providers.
 * **Auditing & Reporting:** Implemented comprehensive auditing and reporting capabilities for Security360 using Hibernate Envers.
 * **Library Development:** Developed Spring Boot auto-configuration and Quarkus extension libraries to streamline the integration of Security360 with web applications and services.
 * **One in a Million Miler Excellence Award** — recognized for exceptional
