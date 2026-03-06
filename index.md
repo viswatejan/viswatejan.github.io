@@ -5,7 +5,7 @@ title: Viswa Teja Nariboina
 **Experienced Software Engineer:** 13 years of success in designing and developing scalable, fault-tolerant software solutions. <br/>
 **Quality-Focused:** Result-oriented with a strong commitment to delivering high-quality work. <br/>
 **Continuous Learner:** Eager to learn new skills and stay updated with the latest technologies to enhance work quality. <br/>
-**Open Source Contributor:** Actively contributed to various open-source projects on GitHub. 
+**Open Source Contributor:** Contributed to various open-source projects on GitHub. 
 
 ## SKILLS
 <ul class="list-left">
@@ -35,6 +35,10 @@ title: Viswa Teja Nariboina
   <td>Java, JavaScript, HTML5, CSS3</td>
 </tr>
 <tr>
+  <td markdown="span">**AI**</td>
+  <td>Github Copilot, MCP Servers/Clients, Google ADK</td>
+</tr>
+<tr>
   <td markdown="span">**Frameworks**</td>
   <td>Spring Boot (Spring WebMVC, Security, Data, LDAP), Quarkus, JPA, Hibernate, Hibernate Envers, AngularJS, jQuery</td>
 </tr>
@@ -48,7 +52,7 @@ title: Viswa Teja Nariboina
 </tr>
 <tr>
   <td markdown="span">**APIs**</td>
-  <td>REST, SOAP</td>
+  <td>REST, SOAP, APISIX Gateway</td>
 </tr>
 <tr>
   <td markdown="span">**Relational Databases**</td>
@@ -60,7 +64,7 @@ title: Viswa Teja Nariboina
 </tr>
 <tr>
   <td markdown="span">**Event Streaming**</td>
-  <td>Azure Event Hub, Kafka (KSQL/Streams)</td>
+  <td>Azure Event Hub, Kafka (KSQL/Streams/Connect)</td>
 </tr>
 <tr>
   <td markdown="span">**Cloud Platforms**</td>
@@ -115,8 +119,17 @@ title: Viswa Teja Nariboina
 * **Architectural Design:** Applied Domain Driven Design principles to architect and develop a CQRS-based, scalable, and highly available multi-tenant access management system, Security360. Implemented fine-grained access control (Role & Attribute Based Access Control) to secure web applications and services.
 * **Product Development:** Designed and developed multiple web services, cron jobs, and event/stream processing applications integral to Security360.
 * **Performance Optimization:** Converted the authorization service to a native application using GraalVM, reducing startup time from 8 seconds to under 500 milliseconds, significantly enhancing scalability and memory efficiency.
+* **Agentic AI**: Developed an MCP server that enhances GitHub Copilot
+with custom tools and resources, enabling teams to seamlessly
+integrate their Java applications with Security360. Contributed to
+reference implementations using Google ADK and applied industry best
+practices to strengthen the security posture of MCP servers. Designed
+a scalable architecture capable of interacting with third‑party agents
+and MCP servers secured by a variety of identity providers.
 * **Auditing & Reporting:** Implemented comprehensive auditing and reporting capabilities for Security360 using Hibernate Envers.
 * **Library Development:** Developed Spring Boot auto-configuration and Quarkus extension libraries to streamline the integration of Security360 with web applications and services.
+* **One in a Million Miler Excellence Award** — recognized for exceptional
+long‑term commitment, reliability, and sustained high performance.
 
 ### J.B. Hunt Transport Inc – `Senior Software Engineer` – `Lowell, AR, USA` – `06/2019 – 01/2021`
 * **Leadership & Mentorship:** Assisted and mentored the team, enhancing their skills and productivity.
